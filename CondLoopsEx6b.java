@@ -1,9 +1,9 @@
 /* CondLoopsEx6b
  * Mr. Linseman
- * ICS3U
- * September. 06, 2018
+ * ICS4U
+ * September 11, 2018
  * Description: This program will  
- * Run a race to 100 m
+ * Run a race to 100 m for four runners and stop when one (or more) runners win.
  */ 
 
 class CondLoopsEx6b {
