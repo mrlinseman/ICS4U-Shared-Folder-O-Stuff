@@ -11,6 +11,9 @@ try
 {
   
  firstName = bufRead.readLine();
+ 
+ inStream.close();
+ bufRead.close();
 }
 catch (IOException err)
 {
