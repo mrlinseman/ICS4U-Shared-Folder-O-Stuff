@@ -9,7 +9,7 @@ This list may not be exhaustive.
 * Selection: if/else if/ else,  switch statements (**Need all of these**)
 * Repetition: do-while,  while, for loops (**Need all of these**)
 * Methods:  functions and procedures (**Need all of these**)
-* OOP: Conctructor Methods, Class Mathods, Accessor, Mutator, toString, Equals, Encapsulation (**Need all of these**)
+* OOP: Conctructor Methods, Instance & Class Mathods, Accessor, Mutator, toString, Equals (**Need all of these**)
 * Inheritance: Encapsulation: private, protected (**Need all of these**)
 * Recursion: Generally use this to create cool graphics / fractals / etc.  (Quicksort uses recursion but I want more than this - creativity please)
 * Sorts:  - quicksort, mergesort, bubble sort, insertion, selection, shell, cocktail-shaker (**You don't need all of these - at least 1 each**)
