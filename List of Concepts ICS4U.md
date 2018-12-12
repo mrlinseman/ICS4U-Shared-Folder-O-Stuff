@@ -1,8 +1,9 @@
-Here is a list of concepts/structures that should be included in your ICS4U
-It may not be exhaustive.  
+Here is a list of concepts/structures that should be included in your ICS4U Summative Project: At least one of the following created/used/programmed by each team member.
+
+This list may not be exhaustive. 
 
 **Add items if you feel I have missed some please**
-At least one of the following created/used/programmed by each team member
+
 
 * Repetition: do-while,  while, for loops
 * Methods:  functions and procedures
