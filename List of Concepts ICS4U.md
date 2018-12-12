@@ -3,7 +3,7 @@ Here is a list of concepts/structures that should be included in your ICS4U Summ
 
 This list may not be exhaustive. 
 
-**Add items if you feel I have missed some please**
+**Ask to Add items if you feel I have missed some please**
 
 
 * Selection: if/else if/ else,  switch statements (**Need all of these**)
@@ -27,5 +27,5 @@ Extras/Enhancements are crucial for better grades:
 * Follow conventions (naming, indentations etc.)
 
 
-**Add items if you feel I have missed some please**
+**Ask to Add items if you feel I have missed some please**
 
